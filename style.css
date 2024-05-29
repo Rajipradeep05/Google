@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+header{
+    background-color: #6b8e23;
+    width: 100%;
+    height: auto;
+}
+.formContainer{
+    width: 100%;
+    height: auto;
+    padding: 70px 20px;
+    background:#87cefa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.loginform{
+    background-color:#00008b;
+    width: 50%;
+    height: auto;
+    padding: 40px 20px;
+    
+}
+form {
+    background-color: #ff4500;
+    width: 100%;
+    height: auto;
+
+}
+.formGroup {
+    background-color: yellow;
+   width: 100%;
+   height: auto;
+}
+
+.searchbox{
+    
+    background: #fff;
+    width: 90%;
+    border-radius: 80px;
+   height: auto;
+   display: flex;
+   padding: 30px 15px;
+   margin-left: 3px;
+    
+}
+input {
+
+    background: #FFF;
+    font-size: 20px;
+    width: 90%;
+    border: 0;
+    background: transparent;
+    outline: none;
+
+}
+ .g-icon{
+    width: 50px;
+    cursor: pointer;
+}
+.imc-icon{
+    width: 30px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+.cam-icon{
+    width: 25px;
+    margin-left: 5px;
+    
+
+    
+}
+
